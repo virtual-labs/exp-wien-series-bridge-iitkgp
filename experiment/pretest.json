@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "An wien's series bridge is used to measure the capacitance of a sample of sheet chage at 2kHz. At balance, arm ab is test specimen;&nbsp;arm bc is R<sub>2</sub>=100Ω;&nbsp;arm cd is R<sub>3</sub>=100Ω and arm da is R<sub>4</sub>=286Ω in series with C<sub>4</sub>=0.25`uF`. Calculate the effective impedence of the specimen under test conditions.<br/><p style=\"text-align:center\"><img src=\"images/quiz1.jpg\" style=\"width:350px;height:200px\"></p>",
+      "question": "An wien's series bridge is used to measure the capacitance of a sample of sheet chage at 2kHz. At balance, arm ab is test specimen;&nbsp;arm bc is R<sub>2</sub>=100Ω;&nbsp;arm cd is R<sub>3</sub>=100Ω and arm da is R<sub>4</sub>=286Ω in series with C<sub>4</sub>=0.25`uF`. Calculate the effective impedence of the specimen under test conditions.<br/><p style=\"text-align:center\"><img src=\"images/quiz1.jpg\"></p>",
            
       "answers": {
         "a": "Z<sub>1</sub>=107Ω",
