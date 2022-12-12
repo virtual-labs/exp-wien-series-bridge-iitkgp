@@ -18,4 +18,3 @@
 -
  </br>
 - Also observe the Dissipation factor of the unknwown capacitor which is defined as ω⋅C⋅r. Where, ω=2πf.
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
